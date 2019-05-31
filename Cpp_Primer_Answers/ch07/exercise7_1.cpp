@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
-using std::cin; using std::cout; using std::endl; using std::string;
+using std::cin; 
+using std::cout; 
+using std::endl; 
+using std::string;
 
 struct Sales_data
 {
